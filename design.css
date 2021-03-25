@@ -1,0 +1,74 @@
+.header {
+  background-color: #098765;
+  text-align: center;
+}
+
+.title-setup {
+  padding-bottom: 15px;
+}
+
+.title {
+  font-size: 30px;
+  color:white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.navigation {
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+.navigation-button {
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none;
+  color:white; 
+  margin-right: 10px;
+}
+
+.bodyTitle {
+	font-size: 30px;
+	font-weight: bold;
+	color: black;
+	font-family: Verdana, sans-serif;
+}
+
+.bodyText {
+	font-size: 25px;
+	color:"#404040";
+	font-family: Verdana, sans-serif;
+	max-width: 700px;
+	min-width: 600px;
+}
+
+.experienceTitle {
+	font-size: 25px;
+	font-weight: bold;
+	color: black;
+	font-family: Verdana, sans-serif;
+}
+
+.experienceText {
+	font-size: 20px;
+	color:"#404040";
+	font-family: Verdana, sans-serif;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	justify-content: center
+}
+
+img {
+	max-width: 100%
+}
+
+.image {
+	flex-basis: 40%
+}
+
+body {
+  background-color: #eeeeee;
+}
